@@ -26,7 +26,7 @@ public class Member {
 }
 ```
 
-* JPA 실행 메인
+### JPA 실행 메인
   
   ```java
   public class JpaMain {
@@ -65,9 +65,9 @@ public class Member {
 ```
 
 
-JPA pom 설정
-```
-<project xmlns="http://maven.apache.org/POM/4.0.0"
+### JPA pom 설정
+	```
+	<project xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
@@ -91,7 +91,7 @@ JPA pom 설정
 		</dependency>
 
 	</dependencies>
-</project>
+	</project>
 
 ```
 
