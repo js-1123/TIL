@@ -9,3 +9,4 @@
 	* [기본 키 매핑](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91.md) - 2020.9.14
 	* [연관관계 매핑](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md) - 2020.9.15
 	* [양방향 연관관계](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%96%91%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md) - 2020.9.16
+	* [연관관계 요약](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md) - 2020.9.17
