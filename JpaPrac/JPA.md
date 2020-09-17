@@ -107,8 +107,8 @@ public class Member {
  
  <!-- DB 및 속성 설정 -->
  	<property name="javax.persistence.jdbc.driver" value="org.mariadb.jdbc.Driver"/>
- 	<property name="javax.persistence.jdbc.user" value="root"/>
- 	<property name="javax.persistence.jdbc.password" value="1234"/>
+ 	<property name="javax.persistence.jdbc.user" value="----"/>
+ 	<property name="javax.persistence.jdbc.password" value="----"/>
  	<property name="javax.persistence.jdbc.url" value="jdbc:mariadb://127.0.0.1:3310/shopdb"/>
 <!-- SQL 종류마다의 방언 설정 -->
  	<property name="hibernate.dialect" value="org.hibernate.dialect.MariaDB102Dialect"/>
