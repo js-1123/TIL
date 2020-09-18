@@ -10,3 +10,4 @@
 	* [연관관계 매핑](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84%20%EB%A7%A4%ED%95%91.md) - 2020.9.15
 	* [양방향 연관관계](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%96%91%EB%B0%A9%ED%96%A5%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md) - 2020.9.16
 	* [연관관계 요약](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md) - 2020.9.17
+	* [다양한 연관관계](https://github.com/js-1123/TIL/blob/master/JpaPrac/%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84.md) - 2020.9.18
