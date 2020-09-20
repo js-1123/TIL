@@ -1,7 +1,7 @@
 
   ### web.xml 설정
   
-    ```java
+  
     
       # DispatcherServlet 설정
       
@@ -30,4 +30,4 @@
       
 
     
-    ```
+
