@@ -15,4 +15,4 @@
 
 
 * Spring
-	* [XML 설정](https://github.com/js-1123/TIL/blob/master/Spring/XMl%20%EC%84%A4%EC%A0%95.md)[https://github.com/js-1123/TIL/blob/master/Spring/XMl%20%EC%84%A4%EC%A0%95.md]
+	* [XML 설정](https://github.com/js-1123/TIL/blob/master/Spring/XMl%20%EC%84%A4%EC%A0%95.md)
