@@ -19,3 +19,4 @@
 	* [Java 설정](https://github.com/js-1123/TIL/blob/master/Spring/Java%20%EC%84%A4%EC%A0%95.md)
 	* [Spring 기본 개념](https://github.com/js-1123/TIL/blob/master/Spring/Spring%20%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90.md)
 	* [URL Mapping](https://github.com/js-1123/TIL/blob/master/Spring/URL%20Mapping.md)
+	* [요청방식, 파라미터 추출](https://github.com/js-1123/TIL/tree/master/Spring)
