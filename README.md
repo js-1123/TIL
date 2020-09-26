@@ -21,3 +21,6 @@
 	* [URL Mapping](https://github.com/js-1123/TIL/blob/master/Spring/URL%20Mapping.md)
 	* [요청방식, 파라미터 추출](https://github.com/js-1123/TIL/blob/master/Spring/%EC%9A%94%EC%B2%AD%EB%B0%A9%EC%8B%9D%2C%20%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0.md)
 	* [ViewResolver](https://github.com/js-1123/TIL/blob/master/Spring/ViewResolver.md)
+
+* MariaDB 복습
+	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
