@@ -23,6 +23,7 @@
 	* [ViewResolver](https://github.com/js-1123/TIL/blob/master/Spring/ViewResolver.md)
 	* [커맨드 객체](https://github.com/js-1123/TIL/blob/master/Spring/%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EA%B0%9D%EC%B2%B4.md)
 	* [Form 태그](https://github.com/js-1123/TIL/blob/master/Spring/Form%20%ED%83%9C%EA%B7%B8.md)
+	* [Form2](https://github.com/js-1123/TIL/blob/master/Spring/Form2.md)
 
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
