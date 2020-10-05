@@ -12,3 +12,15 @@
         
         - Controller에서 주입 받을 수 있다.
         
+    
+     # Application scope
+     
+        - Bean을 정의할 때 application scope로 정의하면 서버가 가동될 때 자동으로 주입된다.
+        
+        - 주입된 Bean은 주입만 이루어지는 것이기때문에 application 영역에 저장되지는 않는다.
+        
+        - 서버가 가동될 때 자동 주입 되는 것이므로 @Lazy 어노테이션은 설정하지 않아도 된다.
+        
+        - Java 형식은 @ApplicationScope를 사용한다.
+        
+        - XML 방식은 bean을 정의할 때 scope = "application"으로 설정.
