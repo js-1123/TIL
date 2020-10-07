@@ -29,6 +29,7 @@
 	* [Session](https://github.com/js-1123/TIL/blob/master/Spring/SessionScope.md)
 	* [ApplicationScope](https://github.com/js-1123/TIL/blob/master/Spring/ApplicationScope.md)
 	* [Cookie](https://github.com/js-1123/TIL/blob/master/Spring/Cookie.md)
+	* [Properties](https://github.com/js-1123/TIL/blob/master/Spring/properties.md)
 	
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
