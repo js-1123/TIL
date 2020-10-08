@@ -30,6 +30,8 @@
 	* [ApplicationScope](https://github.com/js-1123/TIL/blob/master/Spring/ApplicationScope.md)
 	* [Cookie](https://github.com/js-1123/TIL/blob/master/Spring/Cookie.md)
 	* [Properties](https://github.com/js-1123/TIL/blob/master/Spring/properties.md)
+	* [유효성 검사](https://github.com/js-1123/TIL/blob/master/Spring/%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.md)
+	
 	
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
