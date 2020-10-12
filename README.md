@@ -32,6 +32,7 @@
 	* [Properties](https://github.com/js-1123/TIL/blob/master/Spring/properties.md)
 	* [유효성 검사](https://github.com/js-1123/TIL/blob/master/Spring/%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC.md)
 	* [에러 커스텀](https://github.com/js-1123/TIL/blob/master/Spring/%EC%97%90%EB%9F%AC%20%EC%BB%A4%EC%8A%A4%ED%85%80.md)
+	* [JSR-303](https://github.com/js-1123/TIL/blob/master/Spring/JSR-303.md)
 	
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
