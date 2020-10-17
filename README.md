@@ -35,6 +35,7 @@
 	* [JSR-303](https://github.com/js-1123/TIL/blob/master/Spring/JSR-303.md)
 	* [JSR-380](https://github.com/js-1123/TIL/blob/master/Spring/JSR-380.md)
 	* [Validator](https://github.com/js-1123/TIL/blob/master/Spring/Validator.md)
+	* [Interceptor](https://github.com/js-1123/TIL/blob/master/Spring/Interceptor.md)
 	
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
