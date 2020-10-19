@@ -37,6 +37,7 @@
 	* [Validator](https://github.com/js-1123/TIL/blob/master/Spring/Validator.md)
 	* [Interceptor](https://github.com/js-1123/TIL/blob/master/Spring/Interceptor.md)
 	* [예외처리](https://github.com/js-1123/TIL/blob/master/Spring/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+	* [Mybatis Java](https://github.com/js-1123/TIL/blob/master/Spring/MybatisJava.md)
 	
 * MariaDB 복습
 	* [DBMS 개요](https://github.com/js-1123/TIL/blob/master/MariaDB/DBMS%20%EA%B0%9C%EC%9A%94.md)
