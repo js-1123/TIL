@@ -46,7 +46,7 @@
 
 
 * CSS Flex
-	* [Flex 01](https://github.com/js-1123/TIL/blob/master/CSS/Flex%2001.md)
-	* [Flex 02](https://github.com/js-1123/TIL/blob/master/CSS/Flex02.md)
-	* [display](https://github.com/js-1123/TIL/blob/master/CSS/display.md)
-	* [글자 서식](https://github.com/js-1123/TIL/blob/master/CSS/%EC%84%9C%EC%8B%9D.md)
+	* [CSS 01](https://github.com/js-1123/TIL/blob/master/CSS/Flex%2001.md)
+	* [CSS 02](https://github.com/js-1123/TIL/blob/master/CSS/Flex02.md)
+	* [CSS 03](https://github.com/js-1123/TIL/blob/master/CSS/display.md)
+	* [CSS 04](https://github.com/js-1123/TIL/blob/master/CSS/%EC%84%9C%EC%8B%9D.md)
