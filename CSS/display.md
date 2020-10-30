@@ -34,4 +34,4 @@
     
     # position:absolute 또는 position: fixed를 하면 inline-block으로 변경, (block 요소에 absolute or fixed를 주면 너비 값을 잃음)
     
-       aa
+  
