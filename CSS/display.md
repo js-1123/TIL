@@ -34,4 +34,4 @@
     
     # position:absolute 또는 position: fixed를 하면 inline-block으로 변경, (block 요소에 absolute or fixed를 주면 너비 값을 잃음)
     
-  
+    # position을 주면 z-index의 우위를 가짐. position이 겹친다면 위의 position이 우선순위.
