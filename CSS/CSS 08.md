@@ -6,4 +6,6 @@
     
     - form 요소 중 before, after 요소를 가질 수 있는 태그 : button, label
     
-    - fontawesome 유니코드를 작성할 때 font-style을 fontawesome으로 지정해야 
+    - fontawesome 유니코드를 작성할 때 font-style을 fontawesome으로 지정해야 한다.
+    
+    - 완벽한 정렬을 할 때는 float를 추천하지만, 그 정도가 아니라면 inline-block도 고려한다.
