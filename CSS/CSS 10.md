@@ -17,3 +17,5 @@
 * 단어로는 fast, slow가 있다. 이럴 경우 "", ''를 반드시 추가.
 
 * addClass, removeClass, toggleClass의 class추가는 .을 넣지 않는다.
+
+* hover 다음의 요소는 인접선택자를 사용해도 되지만 보통은 자식 요소를 선택한다. (본인 자체를 선택하지 않으면)
