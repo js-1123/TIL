@@ -19,3 +19,9 @@
 * addClass, removeClass, toggleClass의 class추가는 .을 넣지 않는다.
 
 * hover 다음의 요소는 인접선택자를 사용해도 되지만 보통은 자식 요소를 선택한다. (본인 자체를 선택하지 않으면)
+
+* display : none은 transition 불가
+
+* visibility hidden 및 visible로 transition 조절
+
+* pointer-events : none으로도 해결 
