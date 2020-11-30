@@ -25,3 +25,5 @@
 * visibility hidden 및 visible로 transition 조절
 
 * pointer-events : none으로도 해결 
+
+* Click : focus
