@@ -27,3 +27,5 @@
 * pointer-events : none으로도 해결 
 
 * Click : focus
+
+* IE, 엣지에서는 filter 속성이 작동하지 않는다.
