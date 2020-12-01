@@ -29,3 +29,5 @@
 * Click : focus
 
 * IE, 엣지에서는 filter 속성이 작동하지 않는다.
+
+* margin은 font-size에 기반한다
